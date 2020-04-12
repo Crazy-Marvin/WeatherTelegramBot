@@ -12,5 +12,19 @@
 
 # Telegram Weather Bot
 
-This bot shows information about the weather.
+This bot shows information about the weather and the moon.
 It is written in PHP and uses [wttr.in](https://wttr.in/).
+
+# Contributing
+
+We use [Crowdin](https://crowdin.com/project/WeatherTelegramBot) for translations.
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+More details and contact info can be found in the [CONTRIBUTING.md](https://github.com/Crazy-Marvin/WeatherTelegramBot/blob/master/.github/CONTRIBUTING.md)
+
+# License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
