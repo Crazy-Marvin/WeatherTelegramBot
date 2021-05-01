@@ -1,4 +1,5 @@
 [![Telegram Weather Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/wttr_telegram_bot)
+![healthchecks.io](https://img.shields.io/endpoint?label=Weather%20Bot&style=flat-square&url=https://healthchecks.io/badge/396c7d03-faf7-4562-9f83-1194d0/uZQETvaS-2/WeatherBot.shields)
 [![License](https://img.shields.io/github/license/Crazy-Marvin/WeatherTelegramBot)](https://github.com/Crazy-Marvin/WeatherTelegramBot/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/WeatherTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/WeatherTelegramBot/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/WeatherTelegramBot/total.svg?style=flat)](https://github.com/Crazy-Marvin/WeatherTelegramBot/releases)
