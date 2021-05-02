@@ -1,5 +1,5 @@
 <?php
-$botToken = "1139919498:AAEqp4e-2l_a-3GKPNGte9gUAEI6MlRw6Dg";
+$botToken = "";
 $website = "https://api.telegram.org/bot".$botToken;
 
 $update = file_get_contents('php://input');
@@ -9,7 +9,7 @@ $config = [
     'mysql_host' => '',
     'mysql_user' => '',
     'mysql_password' => '',
-    'mysql_db' => 'halmpwct_weather'
+    'mysql_db' => ''
 ];
 
 $mysqli = new mysqli(
