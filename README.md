@@ -16,6 +16,14 @@
 This bot shows information about the weather and the moon.
 It is written in PHP and uses [wttr.in](https://wttr.in/).
 
+### Requirements
+
+- Token from [@Botfather](https://telegram.me/botfather)
+- SSL certificate (I recommend [Let's Encrypt](https://letsencrypt.org/))
+- Webserver running [PHP](https://www.php.net/) (tested with [Apache](https://httpd.apache.org/), [NGINX](https://www.nginx.com/) and [Caddy](https://caddyserver.com/) but others should work too)
+- [MariaDB](https://mariadb.org/) database
+- [Healthchecks](https://healthchecks.io/#php) URL (optional)
+
 # Contributing
 
 We use [Crowdin](https://crowdin.com/project/WeatherTelegramBot) for translations.
