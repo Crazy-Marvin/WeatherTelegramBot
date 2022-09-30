@@ -6,7 +6,7 @@
 [![Latest tag](https://img.shields.io/github/tag/Crazy-Marvin/WeatherTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/WeatherTelegramBot/tags)
 [![Issues](https://img.shields.io/github/issues/Crazy-Marvin/WeatherTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/WeatherTelegramBot/issues)
 [![Pull requests](https://img.shields.io/github/issues-pr/Crazy-Marvin/WeatherTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/WeatherTelegramBot/pulls)
-[![Crowdin](https://badges.crowdin.net/WeatherTelegramBot/localized.svg)](https://crowdin.com/project/WeatherTelegramBot)
+Hosted Weblate
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ae5f852725f409087975f2412adbe0b)](https://www.codacy.com/gh/Crazy-Marvin/WeatherTelegramBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crazy-Marvin/WeatherTelegramBot&amp;utm_campaign=Badge_Grade)
 ![No Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreenChat)
 
@@ -26,7 +26,7 @@ It is written in PHP and uses [wttr.in](https://wttr.in/).
 
 # Contributing
 
-We use [Crowdin](https://crowdin.com/project/WeatherTelegramBot) for translations.
+We use [Hosted Weblate](https://hosted.weblate.org/) for translations.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
